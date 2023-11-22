@@ -1,1 +1,1 @@
-# sql-challenge
+In this challenge, we created tables and column titles for each table. Additionally, we imported each CSV file into it's corresponding table to display information. We also created an Entity Relationship Diagram of the tables. We concluded the challenge by conducting data analysis to find out relevant information for each instruction that was tasked to us.
